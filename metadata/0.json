@@ -1,5 +1,12 @@
 {
   "name": "Sun Peso – Argentina",
   "description": "A golden digital coin featuring the Sun of May and Casa Rosada.",
-  "image": "https://worldmint.vercel.app/sun-peso-final.jpg"
+  "image": "https://worldmint.vercel.app/argentina_front.jpg",
+  "attributes": [
+    { "trait_type": "Country", "value": "Argentina" },
+    { "trait_type": "Continent", "value": "South America" },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Year", "value": "2025" },
+    { "trait_type": "Format", "value": "JPEG Front" }
+  ]
 }
